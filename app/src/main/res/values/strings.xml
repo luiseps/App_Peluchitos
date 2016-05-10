@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Peluchitos</string>
+    <string name="peluchito">Peluchito  </string>
+    <string name="peluchitos">Peluchitos </string>
+    <string name="precio">Precio  </string>
+    <string name="id">ID  </string>
+    <string name="cantidad">Cantidad  </string>
+    <string name="ventas">ventas  </string>
+
+    <string name="agregar">Agregar Peluchito</string>
+    <string name="buscar">Buscar Peluchito</string>
+    <string name="eliminar">Eliminar Peluchito </string>
+    <string name="actualizar">Actualizar Peluchito </string>
+    <string name="inventario">Mostrar Inventario</string>
+    <string name="venta">Realizar Venta</string>
+    <string name="ganancias">Mostrar Ganancias Totales </string>
+    <string name="vender">Cantidad a vender </string>
+
+
+</resources>
